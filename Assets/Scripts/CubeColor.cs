@@ -8,6 +8,7 @@ public class CubeColor : MonoBehaviour
     void Start()
     {
         Debug.Log("From Branch1");
+        Debug.Log(" Branch2 pulled the script and modified");
     }
 
     // Update is called once per frame
